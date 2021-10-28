@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# Getting Started with RBTN Project
+
+This project was made with the intent to promote my cousin, Joyce Reboton, branding in world of powerlifting. This project is a prototype of the proposed frontend design.
+
+## Main Takeaways and Self-Improvement on this project
+### `Learning Components`
+
+In React, we use components as a way of laying out the page's structure. This really enhances the codes readability and reusability. 
+
+### `Hooks`
+
+Hooks ,introduced in React 16.8, is a very powerful feature of react as this allows a flexible way of extracting, testing and reusing previously written code. 
+
+### `Using GitHub Pages/Heroku/Netlify`
+
+TBA
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
